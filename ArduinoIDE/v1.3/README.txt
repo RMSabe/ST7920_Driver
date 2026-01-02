@@ -1,3 +1,6 @@
+!!!DEPRECATED!!!
+USE MY OTHER REPOSITORY: https://github.com/RMSabe/ArduinoIDE_Lib
+
 ST7920 Graphic Display Driver for Arduino IDE (Standard 128x64 ST7920 Displays Only)
 Version 1.3
 
